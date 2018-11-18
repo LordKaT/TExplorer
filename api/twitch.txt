@@ -1,0 +1,1102 @@
+stdClass Object
+(
+    [_total] => 15751
+    [_links] => stdClass Object
+        (
+            [self] => https://api.twitch.tv/kraken/search/streams?limit=20&offset=0&query=league+of+legends
+            [next] => https://api.twitch.tv/kraken/search/streams?limit=20&offset=20&query=league+of+legends
+        )
+
+    [streams] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [_id] => 20025531856
+                    [game] => League of Legends
+                    [viewers] => 207
+                    [video_height] => 1080
+                    [average_fps] => 29
+                    [delay] => 0
+                    [created_at] => 2016-03-06T13:04:16Z
+                    [is_playlist] => 
+                    [preview] => stdClass Object
+                        (
+                            [small] => https://static-cdn.jtvnw.net/previews-ttv/live_user_vman7-80x45.jpg
+                            [medium] => https://static-cdn.jtvnw.net/previews-ttv/live_user_vman7-320x180.jpg
+                            [large] => https://static-cdn.jtvnw.net/previews-ttv/live_user_vman7-640x360.jpg
+                            [template] => https://static-cdn.jtvnw.net/previews-ttv/live_user_vman7-{width}x{height}.jpg
+                        )
+
+                    [_links] => stdClass Object
+                        (
+                            [self] => https://api.twitch.tv/kraken/streams/vman7
+                        )
+
+                    [channel] => stdClass Object
+                        (
+                            [mature] => 
+                            [status] => Old forgotten guy plays league (◕‿◕✿)
+                            [broadcaster_language] => en
+                            [display_name] => VMan7
+                            [game] => League of Legends
+                            [language] => en
+                            [_id] => 14226214
+                            [name] => vman7
+                            [created_at] => 2010-07-31T00:16:36Z
+                            [updated_at] => 2016-03-06T18:01:24Z
+                            [delay] => 
+                            [logo] => https://static-cdn.jtvnw.net/jtv_user_pictures/vman7-profile_image-12cb50606a5ee9e6-300x300.png
+                            [banner] => 
+                            [video_banner] => https://static-cdn.jtvnw.net/jtv_user_pictures/vman7-channel_offline_image-51bbe45ad8d58da2-1920x1080.jpeg
+                            [background] => 
+                            [profile_banner] => 
+                            [profile_banner_background_color] => 
+                            [partner] => 1
+                            [url] => http://www.twitch.tv/vman7
+                            [views] => 15308208
+                            [followers] => 38351
+                            [_links] => stdClass Object
+                                (
+                                    [self] => https://api.twitch.tv/kraken/channels/vman7
+                                    [follows] => https://api.twitch.tv/kraken/channels/vman7/follows
+                                    [commercial] => https://api.twitch.tv/kraken/channels/vman7/commercial
+                                    [stream_key] => https://api.twitch.tv/kraken/channels/vman7/stream_key
+                                    [chat] => https://api.twitch.tv/kraken/chat/vman7
+                                    [features] => https://api.twitch.tv/kraken/channels/vman7/features
+                                    [subscriptions] => https://api.twitch.tv/kraken/channels/vman7/subscriptions
+                                    [editors] => https://api.twitch.tv/kraken/channels/vman7/editors
+                                    [teams] => https://api.twitch.tv/kraken/channels/vman7/teams
+                                    [videos] => https://api.twitch.tv/kraken/channels/vman7/videos
+                                )
+
+                        )
+
+                )
+
+            [1] => stdClass Object
+                (
+                    [_id] => 20023960896
+                    [game] => League of Legends
+                    [viewers] => 163
+                    [video_height] => 720
+                    [average_fps] => 30.8571428571
+                    [delay] => 0
+                    [created_at] => 2016-03-06T11:13:11Z
+                    [is_playlist] => 
+                    [preview] => stdClass Object
+                        (
+                            [small] => https://static-cdn.jtvnw.net/previews-ttv/live_user_g96k-80x45.jpg
+                            [medium] => https://static-cdn.jtvnw.net/previews-ttv/live_user_g96k-320x180.jpg
+                            [large] => https://static-cdn.jtvnw.net/previews-ttv/live_user_g96k-640x360.jpg
+                            [template] => https://static-cdn.jtvnw.net/previews-ttv/live_user_g96k-{width}x{height}.jpg
+                        )
+
+                    [_links] => stdClass Object
+                        (
+                            [self] => https://api.twitch.tv/kraken/streams/g96k
+                        )
+
+                    [channel] => stdClass Object
+                        (
+                            [mature] => 1
+                            [status] => League is business [EUW]
+                            [broadcaster_language] => en
+                            [display_name] => G96k
+                            [game] => League of Legends
+                            [language] => de
+                            [_id] => 31217413
+                            [name] => g96k
+                            [created_at] => 2012-06-10T17:26:11Z
+                            [updated_at] => 2016-03-06T18:02:22Z
+                            [delay] => 
+                            [logo] => https://static-cdn.jtvnw.net/jtv_user_pictures/g96k-profile_image-b6bf53ab75de340b-300x300.jpeg
+                            [banner] => 
+                            [video_banner] => https://static-cdn.jtvnw.net/jtv_user_pictures/g96k-channel_offline_image-66874855f2fa62a9-1920x1080.jpeg
+                            [background] => 
+                            [profile_banner] => https://static-cdn.jtvnw.net/jtv_user_pictures/g96k-profile_banner-d63a182eb813a3b3-480.png
+                            [profile_banner_background_color] => 
+                            [partner] => 1
+                            [url] => http://www.twitch.tv/g96k
+                            [views] => 198945
+                            [followers] => 16183
+                            [_links] => stdClass Object
+                                (
+                                    [self] => https://api.twitch.tv/kraken/channels/g96k
+                                    [follows] => https://api.twitch.tv/kraken/channels/g96k/follows
+                                    [commercial] => https://api.twitch.tv/kraken/channels/g96k/commercial
+                                    [stream_key] => https://api.twitch.tv/kraken/channels/g96k/stream_key
+                                    [chat] => https://api.twitch.tv/kraken/chat/g96k
+                                    [features] => https://api.twitch.tv/kraken/channels/g96k/features
+                                    [subscriptions] => https://api.twitch.tv/kraken/channels/g96k/subscriptions
+                                    [editors] => https://api.twitch.tv/kraken/channels/g96k/editors
+                                    [teams] => https://api.twitch.tv/kraken/channels/g96k/teams
+                                    [videos] => https://api.twitch.tv/kraken/channels/g96k/videos
+                                )
+
+                        )
+
+                )
+
+            [2] => stdClass Object
+                (
+                    [_id] => 20030758848
+                    [game] => League of Legends
+                    [viewers] => 35
+                    [video_height] => 720
+                    [average_fps] => 60
+                    [delay] => 0
+                    [created_at] => 2016-03-06T17:37:59Z
+                    [is_playlist] => 
+                    [preview] => stdClass Object
+                        (
+                            [small] => https://static-cdn.jtvnw.net/previews-ttv/live_user_tvrgod-80x45.jpg
+                            [medium] => https://static-cdn.jtvnw.net/previews-ttv/live_user_tvrgod-320x180.jpg
+                            [large] => https://static-cdn.jtvnw.net/previews-ttv/live_user_tvrgod-640x360.jpg
+                            [template] => https://static-cdn.jtvnw.net/previews-ttv/live_user_tvrgod-{width}x{height}.jpg
+                        )
+
+                    [_links] => stdClass Object
+                        (
+                            [self] => https://api.twitch.tv/kraken/streams/tvrgod
+                        )
+
+                    [channel] => stdClass Object
+                        (
+                            [mature] => 
+                            [status] => TCLOL - Torneio Online 2 League of Legends
+                            [broadcaster_language] => pt
+                            [display_name] => tvrgod
+                            [game] => League of Legends
+                            [language] => pt-br
+                            [_id] => 89919857
+                            [name] => tvrgod
+                            [created_at] => 2015-04-30T22:23:09Z
+                            [updated_at] => 2016-03-06T18:01:17Z
+                            [delay] => 
+                            [logo] => https://static-cdn.jtvnw.net/jtv_user_pictures/tvrgod-profile_image-882bd37dfc4d3cd1-300x300.jpeg
+                            [banner] => 
+                            [video_banner] => https://static-cdn.jtvnw.net/jtv_user_pictures/tvrgod-channel_offline_image-ab401e5d30e67fe1-1920x1080.png
+                            [background] => 
+                            [profile_banner] => https://static-cdn.jtvnw.net/jtv_user_pictures/tvrgod-profile_banner-b112ca84fa29f936-480.jpeg
+                            [profile_banner_background_color] => 
+                            [partner] => 1
+                            [url] => http://www.twitch.tv/tvrgod
+                            [views] => 72075
+                            [followers] => 8039
+                            [_links] => stdClass Object
+                                (
+                                    [self] => https://api.twitch.tv/kraken/channels/tvrgod
+                                    [follows] => https://api.twitch.tv/kraken/channels/tvrgod/follows
+                                    [commercial] => https://api.twitch.tv/kraken/channels/tvrgod/commercial
+                                    [stream_key] => https://api.twitch.tv/kraken/channels/tvrgod/stream_key
+                                    [chat] => https://api.twitch.tv/kraken/chat/tvrgod
+                                    [features] => https://api.twitch.tv/kraken/channels/tvrgod/features
+                                    [subscriptions] => https://api.twitch.tv/kraken/channels/tvrgod/subscriptions
+                                    [editors] => https://api.twitch.tv/kraken/channels/tvrgod/editors
+                                    [teams] => https://api.twitch.tv/kraken/channels/tvrgod/teams
+                                    [videos] => https://api.twitch.tv/kraken/channels/tvrgod/videos
+                                )
+
+                        )
+
+                )
+
+            [3] => stdClass Object
+                (
+                    [_id] => 20026717200
+                    [game] => League of Legends
+                    [viewers] => 38
+                    [video_height] => 540
+                    [average_fps] => 30.2857142857
+                    [delay] => 0
+                    [created_at] => 2016-03-06T14:14:56Z
+                    [is_playlist] => 
+                    [preview] => stdClass Object
+                        (
+                            [small] => https://static-cdn.jtvnw.net/previews-ttv/live_user_blondinette29-80x45.jpg
+                            [medium] => https://static-cdn.jtvnw.net/previews-ttv/live_user_blondinette29-320x180.jpg
+                            [large] => https://static-cdn.jtvnw.net/previews-ttv/live_user_blondinette29-640x360.jpg
+                            [template] => https://static-cdn.jtvnw.net/previews-ttv/live_user_blondinette29-{width}x{height}.jpg
+                        )
+
+                    [_links] => stdClass Object
+                        (
+                            [self] => https://api.twitch.tv/kraken/streams/blondinette29
+                        )
+
+                    [channel] => stdClass Object
+                        (
+                            [mature] => 
+                            [status] => [FR] Blondinette, League of legends :)
+                            [broadcaster_language] => fr
+                            [display_name] => Blondinette29
+                            [game] => League of Legends
+                            [language] => fr
+                            [_id] => 42531638
+                            [name] => blondinette29
+                            [created_at] => 2013-04-16T15:17:50Z
+                            [updated_at] => 2016-03-06T18:02:50Z
+                            [delay] => 
+                            [logo] => https://static-cdn.jtvnw.net/jtv_user_pictures/blondinette29-profile_image-0847061206c2a4ae-300x300.jpeg
+                            [banner] => 
+                            [video_banner] => https://static-cdn.jtvnw.net/jtv_user_pictures/blondinette29-channel_offline_image-a15dbaeccf916399-1920x1080.png
+                            [background] => 
+                            [profile_banner] => https://static-cdn.jtvnw.net/jtv_user_pictures/blondinette29-profile_banner-3fce09bb774a4b06-480.jpeg
+                            [profile_banner_background_color] => 
+                            [partner] => 
+                            [url] => http://www.twitch.tv/blondinette29
+                            [views] => 217180
+                            [followers] => 9772
+                            [_links] => stdClass Object
+                                (
+                                    [self] => https://api.twitch.tv/kraken/channels/blondinette29
+                                    [follows] => https://api.twitch.tv/kraken/channels/blondinette29/follows
+                                    [commercial] => https://api.twitch.tv/kraken/channels/blondinette29/commercial
+                                    [stream_key] => https://api.twitch.tv/kraken/channels/blondinette29/stream_key
+                                    [chat] => https://api.twitch.tv/kraken/chat/blondinette29
+                                    [features] => https://api.twitch.tv/kraken/channels/blondinette29/features
+                                    [subscriptions] => https://api.twitch.tv/kraken/channels/blondinette29/subscriptions
+                                    [editors] => https://api.twitch.tv/kraken/channels/blondinette29/editors
+                                    [teams] => https://api.twitch.tv/kraken/channels/blondinette29/teams
+                                    [videos] => https://api.twitch.tv/kraken/channels/blondinette29/videos
+                                )
+
+                        )
+
+                )
+
+            [4] => stdClass Object
+                (
+                    [_id] => 20030220752
+                    [game] => League of Legends
+                    [viewers] => 20
+                    [video_height] => 720
+                    [average_fps] => 60.0100857287
+                    [delay] => 0
+                    [created_at] => 2016-03-06T17:12:58Z
+                    [is_playlist] => 
+                    [preview] => stdClass Object
+                        (
+                            [small] => https://static-cdn.jtvnw.net/previews-ttv/live_user_waterdance-80x45.jpg
+                            [medium] => https://static-cdn.jtvnw.net/previews-ttv/live_user_waterdance-320x180.jpg
+                            [large] => https://static-cdn.jtvnw.net/previews-ttv/live_user_waterdance-640x360.jpg
+                            [template] => https://static-cdn.jtvnw.net/previews-ttv/live_user_waterdance-{width}x{height}.jpg
+                        )
+
+                    [_links] => stdClass Object
+                        (
+                            [self] => https://api.twitch.tv/kraken/streams/waterdance
+                        )
+
+                    [channel] => stdClass Object
+                        (
+                            [mature] => 1
+                            [status] => Sub Sunday Sunday Sunday! League of Legends with my Subs!! !songrequest <----- Subs Only!! 
+                            [broadcaster_language] => en
+                            [display_name] => Waterdance
+                            [game] => League of Legends
+                            [language] => en
+                            [_id] => 18583518
+                            [name] => waterdance
+                            [created_at] => 2010-12-09T01:54:10Z
+                            [updated_at] => 2016-03-06T18:03:15Z
+                            [delay] => 
+                            [logo] => https://static-cdn.jtvnw.net/jtv_user_pictures/waterdance-profile_image-93e772acadcb8124-300x300.jpeg
+                            [banner] => 
+                            [video_banner] => https://static-cdn.jtvnw.net/jtv_user_pictures/waterdance-channel_offline_image-ebc86e04135da6ee-1920x1080.png
+                            [background] => 
+                            [profile_banner] => https://static-cdn.jtvnw.net/jtv_user_pictures/waterdance-profile_banner-082047cb6e5d0107-480.png
+                            [profile_banner_background_color] => 
+                            [partner] => 1
+                            [url] => http://www.twitch.tv/waterdance
+                            [views] => 1702048
+                            [followers] => 9700
+                            [_links] => stdClass Object
+                                (
+                                    [self] => https://api.twitch.tv/kraken/channels/waterdance
+                                    [follows] => https://api.twitch.tv/kraken/channels/waterdance/follows
+                                    [commercial] => https://api.twitch.tv/kraken/channels/waterdance/commercial
+                                    [stream_key] => https://api.twitch.tv/kraken/channels/waterdance/stream_key
+                                    [chat] => https://api.twitch.tv/kraken/chat/waterdance
+                                    [features] => https://api.twitch.tv/kraken/channels/waterdance/features
+                                    [subscriptions] => https://api.twitch.tv/kraken/channels/waterdance/subscriptions
+                                    [editors] => https://api.twitch.tv/kraken/channels/waterdance/editors
+                                    [teams] => https://api.twitch.tv/kraken/channels/waterdance/teams
+                                    [videos] => https://api.twitch.tv/kraken/channels/waterdance/videos
+                                )
+
+                        )
+
+                )
+
+            [5] => stdClass Object
+                (
+                    [_id] => 20028622368
+                    [game] => League of Legends
+                    [viewers] => 15
+                    [video_height] => 720
+                    [average_fps] => 30.0319488818
+                    [delay] => 0
+                    [created_at] => 2016-03-06T15:57:07Z
+                    [is_playlist] => 
+                    [preview] => stdClass Object
+                        (
+                            [small] => https://static-cdn.jtvnw.net/previews-ttv/live_user_darkxemnas-80x45.jpg
+                            [medium] => https://static-cdn.jtvnw.net/previews-ttv/live_user_darkxemnas-320x180.jpg
+                            [large] => https://static-cdn.jtvnw.net/previews-ttv/live_user_darkxemnas-640x360.jpg
+                            [template] => https://static-cdn.jtvnw.net/previews-ttv/live_user_darkxemnas-{width}x{height}.jpg
+                        )
+
+                    [_links] => stdClass Object
+                        (
+                            [self] => https://api.twitch.tv/kraken/streams/darkxemnas
+                        )
+
+                    [channel] => stdClass Object
+                        (
+                            [mature] => 
+                            [status] => [ESP] League of Legends - Le carrito  (  ง'̀-'́)ง
+                            [broadcaster_language] => es
+                            [display_name] => Darkxemnas
+                            [game] => League of Legends
+                            [language] => es
+                            [_id] => 71394900
+                            [name] => darkxemnas
+                            [created_at] => 2014-09-17T12:00:58Z
+                            [updated_at] => 2016-03-06T18:00:33Z
+                            [delay] => 
+                            [logo] => https://static-cdn.jtvnw.net/jtv_user_pictures/darkxemnas-profile_image-4cb31e2d989834c9-300x300.png
+                            [banner] => 
+                            [video_banner] => https://static-cdn.jtvnw.net/jtv_user_pictures/darkxemnas-channel_offline_image-4f54e8df7ceefadd-1920x1080.png
+                            [background] => 
+                            [profile_banner] => https://static-cdn.jtvnw.net/jtv_user_pictures/darkxemnas-profile_banner-60d8ad3931dc1066-480.png
+                            [profile_banner_background_color] => #1a5e94
+                            [partner] => 
+                            [url] => http://www.twitch.tv/darkxemnas
+                            [views] => 26661
+                            [followers] => 930
+                            [_links] => stdClass Object
+                                (
+                                    [self] => https://api.twitch.tv/kraken/channels/darkxemnas
+                                    [follows] => https://api.twitch.tv/kraken/channels/darkxemnas/follows
+                                    [commercial] => https://api.twitch.tv/kraken/channels/darkxemnas/commercial
+                                    [stream_key] => https://api.twitch.tv/kraken/channels/darkxemnas/stream_key
+                                    [chat] => https://api.twitch.tv/kraken/chat/darkxemnas
+                                    [features] => https://api.twitch.tv/kraken/channels/darkxemnas/features
+                                    [subscriptions] => https://api.twitch.tv/kraken/channels/darkxemnas/subscriptions
+                                    [editors] => https://api.twitch.tv/kraken/channels/darkxemnas/editors
+                                    [teams] => https://api.twitch.tv/kraken/channels/darkxemnas/teams
+                                    [videos] => https://api.twitch.tv/kraken/channels/darkxemnas/videos
+                                )
+
+                        )
+
+                )
+
+            [6] => stdClass Object
+                (
+                    [_id] => 20030133648
+                    [game] => League of Legends
+                    [viewers] => 12
+                    [video_height] => 1080
+                    [average_fps] => 30.0242130751
+                    [delay] => 0
+                    [created_at] => 2016-03-06T17:08:54Z
+                    [is_playlist] => 
+                    [preview] => stdClass Object
+                        (
+                            [small] => https://static-cdn.jtvnw.net/previews-ttv/live_user_martepants-80x45.jpg
+                            [medium] => https://static-cdn.jtvnw.net/previews-ttv/live_user_martepants-320x180.jpg
+                            [large] => https://static-cdn.jtvnw.net/previews-ttv/live_user_martepants-640x360.jpg
+                            [template] => https://static-cdn.jtvnw.net/previews-ttv/live_user_martepants-{width}x{height}.jpg
+                        )
+
+                    [_links] => stdClass Object
+                        (
+                            [self] => https://api.twitch.tv/kraken/streams/martepants
+                        )
+
+                    [channel] => stdClass Object
+                        (
+                            [mature] => 
+                            [status] => League of legend, playing with viewers!
+                            [broadcaster_language] => no
+                            [display_name] => Martepants
+                            [game] => League of Legends
+                            [language] => no
+                            [_id] => 39323975
+                            [name] => martepants
+                            [created_at] => 2013-01-14T00:02:54Z
+                            [updated_at] => 2016-03-06T18:00:04Z
+                            [delay] => 
+                            [logo] => https://static-cdn.jtvnw.net/jtv_user_pictures/martepants-profile_image-41a1fb600e64e1c1-300x300.jpeg
+                            [banner] => 
+                            [video_banner] => https://static-cdn.jtvnw.net/jtv_user_pictures/martepants-channel_offline_image-b8dd80c359896f90-1920x1080.jpeg
+                            [background] => 
+                            [profile_banner] => https://static-cdn.jtvnw.net/jtv_user_pictures/martepants-profile_banner-aff580fc2a743c48-480.jpeg
+                            [profile_banner_background_color] => #030003
+                            [partner] => 
+                            [url] => http://www.twitch.tv/martepants
+                            [views] => 39758
+                            [followers] => 2300
+                            [_links] => stdClass Object
+                                (
+                                    [self] => https://api.twitch.tv/kraken/channels/martepants
+                                    [follows] => https://api.twitch.tv/kraken/channels/martepants/follows
+                                    [commercial] => https://api.twitch.tv/kraken/channels/martepants/commercial
+                                    [stream_key] => https://api.twitch.tv/kraken/channels/martepants/stream_key
+                                    [chat] => https://api.twitch.tv/kraken/chat/martepants
+                                    [features] => https://api.twitch.tv/kraken/channels/martepants/features
+                                    [subscriptions] => https://api.twitch.tv/kraken/channels/martepants/subscriptions
+                                    [editors] => https://api.twitch.tv/kraken/channels/martepants/editors
+                                    [teams] => https://api.twitch.tv/kraken/channels/martepants/teams
+                                    [videos] => https://api.twitch.tv/kraken/channels/martepants/videos
+                                )
+
+                        )
+
+                )
+
+            [7] => stdClass Object
+                (
+                    [_id] => 20021330816
+                    [game] => League of Legends
+                    [viewers] => 9
+                    [video_height] => 540
+                    [average_fps] => 30.5555555556
+                    [delay] => 0
+                    [created_at] => 2016-03-06T07:28:12Z
+                    [is_playlist] => 
+                    [preview] => stdClass Object
+                        (
+                            [small] => https://static-cdn.jtvnw.net/previews-ttv/live_user_chuuuunk-80x45.jpg
+                            [medium] => https://static-cdn.jtvnw.net/previews-ttv/live_user_chuuuunk-320x180.jpg
+                            [large] => https://static-cdn.jtvnw.net/previews-ttv/live_user_chuuuunk-640x360.jpg
+                            [template] => https://static-cdn.jtvnw.net/previews-ttv/live_user_chuuuunk-{width}x{height}.jpg
+                        )
+
+                    [_links] => stdClass Object
+                        (
+                            [self] => https://api.twitch.tv/kraken/streams/chuuuunk
+                        )
+
+                    [channel] => stdClass Object
+                        (
+                            [mature] => 
+                            [status] => I AM A LEGEND OF THE LEAGUE
+                            [broadcaster_language] => en
+                            [display_name] => ChuuuunK
+                            [game] => League of Legends
+                            [language] => en
+                            [_id] => 45083745
+                            [name] => chuuuunk
+                            [created_at] => 2013-06-23T02:06:17Z
+                            [updated_at] => 2016-03-06T18:01:59Z
+                            [delay] => 
+                            [logo] => https://static-cdn.jtvnw.net/jtv_user_pictures/chuuuunk-profile_image-8d9a464aed404046-300x300.jpeg
+                            [banner] => 
+                            [video_banner] => https://static-cdn.jtvnw.net/jtv_user_pictures/chuuuunk-channel_offline_image-d5a76ca058db97ee-1920x1080.png
+                            [background] => 
+                            [profile_banner] => https://static-cdn.jtvnw.net/jtv_user_pictures/chuuuunk-profile_banner-a239a0dd33e59f4f-480.jpeg
+                            [profile_banner_background_color] => 
+                            [partner] => 
+                            [url] => http://www.twitch.tv/chuuuunk
+                            [views] => 5647
+                            [followers] => 627
+                            [_links] => stdClass Object
+                                (
+                                    [self] => https://api.twitch.tv/kraken/channels/chuuuunk
+                                    [follows] => https://api.twitch.tv/kraken/channels/chuuuunk/follows
+                                    [commercial] => https://api.twitch.tv/kraken/channels/chuuuunk/commercial
+                                    [stream_key] => https://api.twitch.tv/kraken/channels/chuuuunk/stream_key
+                                    [chat] => https://api.twitch.tv/kraken/chat/chuuuunk
+                                    [features] => https://api.twitch.tv/kraken/channels/chuuuunk/features
+                                    [subscriptions] => https://api.twitch.tv/kraken/channels/chuuuunk/subscriptions
+                                    [editors] => https://api.twitch.tv/kraken/channels/chuuuunk/editors
+                                    [teams] => https://api.twitch.tv/kraken/channels/chuuuunk/teams
+                                    [videos] => https://api.twitch.tv/kraken/channels/chuuuunk/videos
+                                )
+
+                        )
+
+                )
+
+            [8] => stdClass Object
+                (
+                    [_id] => 20027843600
+                    [game] => League of Legends
+                    [viewers] => 7
+                    [video_height] => 360
+                    [average_fps] => 32.4412003244
+                    [delay] => 0
+                    [created_at] => 2016-03-06T15:16:35Z
+                    [is_playlist] => 
+                    [preview] => stdClass Object
+                        (
+                            [small] => https://static-cdn.jtvnw.net/previews-ttv/live_user_league0fterror-80x45.jpg
+                            [medium] => https://static-cdn.jtvnw.net/previews-ttv/live_user_league0fterror-320x180.jpg
+                            [large] => https://static-cdn.jtvnw.net/previews-ttv/live_user_league0fterror-640x360.jpg
+                            [template] => https://static-cdn.jtvnw.net/previews-ttv/live_user_league0fterror-{width}x{height}.jpg
+                        )
+
+                    [_links] => stdClass Object
+                        (
+                            [self] => https://api.twitch.tv/kraken/streams/league0fterror
+                        )
+
+                    [channel] => stdClass Object
+                        (
+                            [mature] => 
+                            [status] => GR / ENG  eune ( lagarei gamw tin  WIND / OTE )
+                            [broadcaster_language] => en
+                            [display_name] => League0fTerror
+                            [game] => League of Legends
+                            [language] => el
+                            [_id] => 90947553
+                            [name] => league0fterror
+                            [created_at] => 2015-05-13T10:34:50Z
+                            [updated_at] => 2016-03-06T18:00:07Z
+                            [delay] => 
+                            [logo] => https://static-cdn.jtvnw.net/jtv_user_pictures/league0fterror-profile_image-89eb21d74aa11bfa-300x300.png
+                            [banner] => 
+                            [video_banner] => https://static-cdn.jtvnw.net/jtv_user_pictures/league0fterror-channel_offline_image-9a7f8718783b5b6f-1920x1080.jpeg
+                            [background] => 
+                            [profile_banner] => https://static-cdn.jtvnw.net/jtv_user_pictures/league0fterror-profile_banner-0a07a01b8e4f887a-480.jpeg
+                            [profile_banner_background_color] => #000000
+                            [partner] => 
+                            [url] => http://www.twitch.tv/league0fterror
+                            [views] => 4362
+                            [followers] => 174
+                            [_links] => stdClass Object
+                                (
+                                    [self] => https://api.twitch.tv/kraken/channels/league0fterror
+                                    [follows] => https://api.twitch.tv/kraken/channels/league0fterror/follows
+                                    [commercial] => https://api.twitch.tv/kraken/channels/league0fterror/commercial
+                                    [stream_key] => https://api.twitch.tv/kraken/channels/league0fterror/stream_key
+                                    [chat] => https://api.twitch.tv/kraken/chat/league0fterror
+                                    [features] => https://api.twitch.tv/kraken/channels/league0fterror/features
+                                    [subscriptions] => https://api.twitch.tv/kraken/channels/league0fterror/subscriptions
+                                    [editors] => https://api.twitch.tv/kraken/channels/league0fterror/editors
+                                    [teams] => https://api.twitch.tv/kraken/channels/league0fterror/teams
+                                    [videos] => https://api.twitch.tv/kraken/channels/league0fterror/videos
+                                )
+
+                        )
+
+                )
+
+            [9] => stdClass Object
+                (
+                    [_id] => 20030663728
+                    [game] => League of Legends
+                    [viewers] => 4
+                    [video_height] => 900
+                    [average_fps] => 25
+                    [delay] => 0
+                    [created_at] => 2016-03-06T17:33:34Z
+                    [is_playlist] => 
+                    [preview] => stdClass Object
+                        (
+                            [small] => https://static-cdn.jtvnw.net/previews-ttv/live_user_blackgamingbox-80x45.jpg
+                            [medium] => https://static-cdn.jtvnw.net/previews-ttv/live_user_blackgamingbox-320x180.jpg
+                            [large] => https://static-cdn.jtvnw.net/previews-ttv/live_user_blackgamingbox-640x360.jpg
+                            [template] => https://static-cdn.jtvnw.net/previews-ttv/live_user_blackgamingbox-{width}x{height}.jpg
+                        )
+
+                    [_links] => stdClass Object
+                        (
+                            [self] => https://api.twitch.tv/kraken/streams/blackgamingbox
+                        )
+
+                    [channel] => stdClass Object
+                        (
+                            [mature] => 
+                            [status] => League of Legends Deutsch SKIN GIVEAWAY
+                            [broadcaster_language] => de
+                            [display_name] => BlackGamingBox
+                            [game] => League of Legends
+                            [language] => de
+                            [_id] => 108785359
+                            [name] => blackgamingbox
+                            [created_at] => 2015-12-05T19:16:46Z
+                            [updated_at] => 2016-03-06T18:01:14Z
+                            [delay] => 
+                            [logo] => https://static-cdn.jtvnw.net/jtv_user_pictures/blackgamingbox-profile_image-35ba76e8af09d387-300x300.png
+                            [banner] => 
+                            [video_banner] => 
+                            [background] => 
+                            [profile_banner] => https://static-cdn.jtvnw.net/jtv_user_pictures/blackgamingbox-profile_banner-1a2360e2f63e08f0-480.jpeg
+                            [profile_banner_background_color] => 
+                            [partner] => 
+                            [url] => http://www.twitch.tv/blackgamingbox
+                            [views] => 639
+                            [followers] => 1255
+                            [_links] => stdClass Object
+                                (
+                                    [self] => https://api.twitch.tv/kraken/channels/blackgamingbox
+                                    [follows] => https://api.twitch.tv/kraken/channels/blackgamingbox/follows
+                                    [commercial] => https://api.twitch.tv/kraken/channels/blackgamingbox/commercial
+                                    [stream_key] => https://api.twitch.tv/kraken/channels/blackgamingbox/stream_key
+                                    [chat] => https://api.twitch.tv/kraken/chat/blackgamingbox
+                                    [features] => https://api.twitch.tv/kraken/channels/blackgamingbox/features
+                                    [subscriptions] => https://api.twitch.tv/kraken/channels/blackgamingbox/subscriptions
+                                    [editors] => https://api.twitch.tv/kraken/channels/blackgamingbox/editors
+                                    [teams] => https://api.twitch.tv/kraken/channels/blackgamingbox/teams
+                                    [videos] => https://api.twitch.tv/kraken/channels/blackgamingbox/videos
+                                )
+
+                        )
+
+                )
+
+            [10] => stdClass Object
+                (
+                    [_id] => 20029395936
+                    [game] => League of Legends
+                    [viewers] => 4
+                    [video_height] => 720
+                    [average_fps] => 21.4285714286
+                    [delay] => 0
+                    [created_at] => 2016-03-06T16:34:42Z
+                    [is_playlist] => 
+                    [preview] => stdClass Object
+                        (
+                            [small] => https://static-cdn.jtvnw.net/previews-ttv/live_user_elixirgirl-80x45.jpg
+                            [medium] => https://static-cdn.jtvnw.net/previews-ttv/live_user_elixirgirl-320x180.jpg
+                            [large] => https://static-cdn.jtvnw.net/previews-ttv/live_user_elixirgirl-640x360.jpg
+                            [template] => https://static-cdn.jtvnw.net/previews-ttv/live_user_elixirgirl-{width}x{height}.jpg
+                        )
+
+                    [_links] => stdClass Object
+                        (
+                            [self] => https://api.twitch.tv/kraken/streams/elixirgirl
+                        )
+
+                    [channel] => stdClass Object
+                        (
+                            [mature] => 
+                            [status] => [Girl FR]  ELIXIR  * League of Legends Game viewers !
+                            [broadcaster_language] => fr
+                            [display_name] => elixirgirl
+                            [game] => League of Legends
+                            [language] => fr
+                            [_id] => 115709727
+                            [name] => elixirgirl
+                            [created_at] => 2016-02-13T14:55:21Z
+                            [updated_at] => 2016-03-06T18:03:28Z
+                            [delay] => 
+                            [logo] => https://static-cdn.jtvnw.net/jtv_user_pictures/elixirgirl-profile_image-067edb6a40e25abf-300x300.jpeg
+                            [banner] => 
+                            [video_banner] => 
+                            [background] => 
+                            [profile_banner] => 
+                            [profile_banner_background_color] => 
+                            [partner] => 
+                            [url] => http://www.twitch.tv/elixirgirl
+                            [views] => 5120
+                            [followers] => 364
+                            [_links] => stdClass Object
+                                (
+                                    [self] => https://api.twitch.tv/kraken/channels/elixirgirl
+                                    [follows] => https://api.twitch.tv/kraken/channels/elixirgirl/follows
+                                    [commercial] => https://api.twitch.tv/kraken/channels/elixirgirl/commercial
+                                    [stream_key] => https://api.twitch.tv/kraken/channels/elixirgirl/stream_key
+                                    [chat] => https://api.twitch.tv/kraken/chat/elixirgirl
+                                    [features] => https://api.twitch.tv/kraken/channels/elixirgirl/features
+                                    [subscriptions] => https://api.twitch.tv/kraken/channels/elixirgirl/subscriptions
+                                    [editors] => https://api.twitch.tv/kraken/channels/elixirgirl/editors
+                                    [teams] => https://api.twitch.tv/kraken/channels/elixirgirl/teams
+                                    [videos] => https://api.twitch.tv/kraken/channels/elixirgirl/videos
+                                )
+
+                        )
+
+                )
+
+            [11] => stdClass Object
+                (
+                    [_id] => 20031380448
+                    [game] => League of Legends
+                    [viewers] => 3
+                    [video_height] => 1036
+                    [average_fps] => 30
+                    [delay] => 0
+                    [created_at] => 2016-03-06T18:05:10Z
+                    [is_playlist] => 
+                    [preview] => stdClass Object
+                        (
+                            [small] => https://static-cdn.jtvnw.net/previews-ttv/live_user_pknerron-80x45.jpg
+                            [medium] => https://static-cdn.jtvnw.net/previews-ttv/live_user_pknerron-320x180.jpg
+                            [large] => https://static-cdn.jtvnw.net/previews-ttv/live_user_pknerron-640x360.jpg
+                            [template] => https://static-cdn.jtvnw.net/previews-ttv/live_user_pknerron-{width}x{height}.jpg
+                        )
+
+                    [_links] => stdClass Object
+                        (
+                            [self] => https://api.twitch.tv/kraken/streams/pknerron
+                        )
+
+                    [channel] => stdClass Object
+                        (
+                            [mature] => 
+                            [status] => Lol | League of Legends | 
+                            [broadcaster_language] => en
+                            [display_name] => PkNerron
+                            [game] => League of Legends
+                            [language] => en
+                            [_id] => 60383012
+                            [name] => pknerron
+                            [created_at] => 2014-04-07T04:57:58Z
+                            [updated_at] => 2016-03-06T12:16:31Z
+                            [delay] => 
+                            [logo] => https://static-cdn.jtvnw.net/jtv_user_pictures/pknerron-profile_image-569b68eb982831df-300x300.png
+                            [banner] => 
+                            [video_banner] => 
+                            [background] => 
+                            [profile_banner] => https://static-cdn.jtvnw.net/jtv_user_pictures/pknerron-profile_banner-931d7a0fd81acb9f-480.png
+                            [profile_banner_background_color] => #a99fbd
+                            [partner] => 
+                            [url] => http://www.twitch.tv/pknerron
+                            [views] => 2783
+                            [followers] => 185
+                            [_links] => stdClass Object
+                                (
+                                    [self] => https://api.twitch.tv/kraken/channels/pknerron
+                                    [follows] => https://api.twitch.tv/kraken/channels/pknerron/follows
+                                    [commercial] => https://api.twitch.tv/kraken/channels/pknerron/commercial
+                                    [stream_key] => https://api.twitch.tv/kraken/channels/pknerron/stream_key
+                                    [chat] => https://api.twitch.tv/kraken/chat/pknerron
+                                    [features] => https://api.twitch.tv/kraken/channels/pknerron/features
+                                    [subscriptions] => https://api.twitch.tv/kraken/channels/pknerron/subscriptions
+                                    [editors] => https://api.twitch.tv/kraken/channels/pknerron/editors
+                                    [teams] => https://api.twitch.tv/kraken/channels/pknerron/teams
+                                    [videos] => https://api.twitch.tv/kraken/channels/pknerron/videos
+                                )
+
+                        )
+
+                )
+
+            [12] => stdClass Object
+                (
+                    [_id] => 20026546448
+                    [game] => League of Legends
+                    [viewers] => 3
+                    [video_height] => 616
+                    [average_fps] => 30.03003003
+                    [delay] => 0
+                    [created_at] => 2016-03-06T14:05:14Z
+                    [is_playlist] => 
+                    [preview] => stdClass Object
+                        (
+                            [small] => https://static-cdn.jtvnw.net/previews-ttv/live_user_profoot24-80x45.jpg
+                            [medium] => https://static-cdn.jtvnw.net/previews-ttv/live_user_profoot24-320x180.jpg
+                            [large] => https://static-cdn.jtvnw.net/previews-ttv/live_user_profoot24-640x360.jpg
+                            [template] => https://static-cdn.jtvnw.net/previews-ttv/live_user_profoot24-{width}x{height}.jpg
+                        )
+
+                    [_links] => stdClass Object
+                        (
+                            [self] => https://api.twitch.tv/kraken/streams/profoot24
+                        )
+
+                    [channel] => stdClass Object
+                        (
+                            [mature] => 
+                            [status] => !giveaway - S6 Ranked League of Legends - Road to 500! 
+                            [broadcaster_language] => en
+                            [display_name] => Profoot24
+                            [game] => League of Legends
+                            [language] => en
+                            [_id] => 46236811
+                            [name] => profoot24
+                            [created_at] => 2013-07-17T20:16:04Z
+                            [updated_at] => 2016-03-06T17:47:09Z
+                            [delay] => 
+                            [logo] => https://static-cdn.jtvnw.net/jtv_user_pictures/profoot24-profile_image-76c1d32a176e3768-300x300.jpeg
+                            [banner] => 
+                            [video_banner] => https://static-cdn.jtvnw.net/jtv_user_pictures/profoot24-channel_offline_image-08b33854e62acc03-1920x1080.jpeg
+                            [background] => 
+                            [profile_banner] => https://static-cdn.jtvnw.net/jtv_user_pictures/profoot24-profile_banner-e51ca6f0c0ba0edd-480.jpeg
+                            [profile_banner_background_color] => 
+                            [partner] => 
+                            [url] => http://www.twitch.tv/profoot24
+                            [views] => 2938
+                            [followers] => 329
+                            [_links] => stdClass Object
+                                (
+                                    [self] => https://api.twitch.tv/kraken/channels/profoot24
+                                    [follows] => https://api.twitch.tv/kraken/channels/profoot24/follows
+                                    [commercial] => https://api.twitch.tv/kraken/channels/profoot24/commercial
+                                    [stream_key] => https://api.twitch.tv/kraken/channels/profoot24/stream_key
+                                    [chat] => https://api.twitch.tv/kraken/chat/profoot24
+                                    [features] => https://api.twitch.tv/kraken/channels/profoot24/features
+                                    [subscriptions] => https://api.twitch.tv/kraken/channels/profoot24/subscriptions
+                                    [editors] => https://api.twitch.tv/kraken/channels/profoot24/editors
+                                    [teams] => https://api.twitch.tv/kraken/channels/profoot24/teams
+                                    [videos] => https://api.twitch.tv/kraken/channels/profoot24/videos
+                                )
+
+                        )
+
+                )
+
+            [13] => stdClass Object
+                (
+                    [_id] => 20031393376
+                    [game] => HEAVY RAIN™
+                    [viewers] => 2
+                    [video_height] => 0
+                    [average_fps] => 29.9775168624
+                    [delay] => 0
+                    [created_at] => 2016-03-06T18:05:41Z
+                    [is_playlist] => 
+                    [preview] => stdClass Object
+                        (
+                            [small] => https://static-cdn.jtvnw.net/previews-ttv/live_user_alexisnportos-80x45.jpg
+                            [medium] => https://static-cdn.jtvnw.net/previews-ttv/live_user_alexisnportos-320x180.jpg
+                            [large] => https://static-cdn.jtvnw.net/previews-ttv/live_user_alexisnportos-640x360.jpg
+                            [template] => https://static-cdn.jtvnw.net/previews-ttv/live_user_alexisnportos-{width}x{height}.jpg
+                        )
+
+                    [_links] => stdClass Object
+                        (
+                            [self] => https://api.twitch.tv/kraken/streams/alexisnportos
+                        )
+
+                    [channel] => stdClass Object
+                        (
+                            [mature] => 
+                            [status] => [Fr/Ps4] heavy rain trankillou
+                            [broadcaster_language] => fr
+                            [display_name] => AlexisNportos
+                            [game] => HEAVY RAIN™
+                            [language] => fr
+                            [_id] => 80922773
+                            [name] => alexisnportos
+                            [created_at] => 2015-01-26T00:41:16Z
+                            [updated_at] => 2016-03-06T18:06:20Z
+                            [delay] => 
+                            [logo] => https://static-cdn.jtvnw.net/jtv_user_pictures/alexisnportos-profile_image-ee975e697810974d-300x300.jpeg
+                            [banner] => 
+                            [video_banner] => https://static-cdn.jtvnw.net/jtv_user_pictures/alexisnportos-channel_offline_image-b6837c00a2c4d7cd-1920x1080.jpeg
+                            [background] => 
+                            [profile_banner] => https://static-cdn.jtvnw.net/jtv_user_pictures/alexisnportos-profile_banner-258f6b131edc37cd-480.jpeg
+                            [profile_banner_background_color] => #1519d9
+                            [partner] => 
+                            [url] => http://www.twitch.tv/alexisnportos
+                            [views] => 1161
+                            [followers] => 399
+                            [_links] => stdClass Object
+                                (
+                                    [self] => https://api.twitch.tv/kraken/channels/alexisnportos
+                                    [follows] => https://api.twitch.tv/kraken/channels/alexisnportos/follows
+                                    [commercial] => https://api.twitch.tv/kraken/channels/alexisnportos/commercial
+                                    [stream_key] => https://api.twitch.tv/kraken/channels/alexisnportos/stream_key
+                                    [chat] => https://api.twitch.tv/kraken/chat/alexisnportos
+                                    [features] => https://api.twitch.tv/kraken/channels/alexisnportos/features
+                                    [subscriptions] => https://api.twitch.tv/kraken/channels/alexisnportos/subscriptions
+                                    [editors] => https://api.twitch.tv/kraken/channels/alexisnportos/editors
+                                    [teams] => https://api.twitch.tv/kraken/channels/alexisnportos/teams
+                                    [videos] => https://api.twitch.tv/kraken/channels/alexisnportos/videos
+                                )
+
+                        )
+
+                )
+
+            [14] => stdClass Object
+                (
+                    [_id] => 20030207664
+                    [game] => League of Legends
+                    [viewers] => 2
+                    [video_height] => 900
+                    [average_fps] => 30
+                    [delay] => 0
+                    [created_at] => 2016-03-06T17:12:22Z
+                    [is_playlist] => 
+                    [preview] => stdClass Object
+                        (
+                            [small] => https://static-cdn.jtvnw.net/previews-ttv/live_user_bravepamperboy-80x45.jpg
+                            [medium] => https://static-cdn.jtvnw.net/previews-ttv/live_user_bravepamperboy-320x180.jpg
+                            [large] => https://static-cdn.jtvnw.net/previews-ttv/live_user_bravepamperboy-640x360.jpg
+                            [template] => https://static-cdn.jtvnw.net/previews-ttv/live_user_bravepamperboy-{width}x{height}.jpg
+                        )
+
+                    [_links] => stdClass Object
+                        (
+                            [self] => https://api.twitch.tv/kraken/streams/bravepamperboy
+                        )
+
+                    [channel] => stdClass Object
+                        (
+                            [mature] => 
+                            [status] => League of legends livestream!
+                            [broadcaster_language] => nl
+                            [display_name] => Bravepamperboy
+                            [game] => League of Legends
+                            [language] => en
+                            [_id] => 110590155
+                            [name] => bravepamperboy
+                            [created_at] => 2015-12-26T22:09:41Z
+                            [updated_at] => 2016-03-06T17:15:31Z
+                            [delay] => 
+                            [logo] => https://static-cdn.jtvnw.net/jtv_user_pictures/bravepamperboy-profile_image-8fdcae6ae5092d55-300x300.png
+                            [banner] => 
+                            [video_banner] => https://static-cdn.jtvnw.net/jtv_user_pictures/bravepamperboy-channel_offline_image-1d26de919ac7a5cd-1920x1080.png
+                            [background] => 
+                            [profile_banner] => https://static-cdn.jtvnw.net/jtv_user_pictures/bravepamperboy-profile_banner-e8c60a8b603df317-480.png
+                            [profile_banner_background_color] => 
+                            [partner] => 
+                            [url] => http://www.twitch.tv/bravepamperboy
+                            [views] => 1158
+                            [followers] => 203
+                            [_links] => stdClass Object
+                                (
+                                    [self] => https://api.twitch.tv/kraken/channels/bravepamperboy
+                                    [follows] => https://api.twitch.tv/kraken/channels/bravepamperboy/follows
+                                    [commercial] => https://api.twitch.tv/kraken/channels/bravepamperboy/commercial
+                                    [stream_key] => https://api.twitch.tv/kraken/channels/bravepamperboy/stream_key
+                                    [chat] => https://api.twitch.tv/kraken/chat/bravepamperboy
+                                    [features] => https://api.twitch.tv/kraken/channels/bravepamperboy/features
+                                    [subscriptions] => https://api.twitch.tv/kraken/channels/bravepamperboy/subscriptions
+                                    [editors] => https://api.twitch.tv/kraken/channels/bravepamperboy/editors
+                                    [teams] => https://api.twitch.tv/kraken/channels/bravepamperboy/teams
+                                    [videos] => https://api.twitch.tv/kraken/channels/bravepamperboy/videos
+                                )
+
+                        )
+
+                )
+
+            [15] => stdClass Object
+                (
+                    [_id] => 20031526384
+                    [game] => League of Legends
+                    [viewers] => 0
+                    [video_height] => 1080
+                    [average_fps] => 25
+                    [delay] => 0
+                    [created_at] => 2016-03-06T18:11:32Z
+                    [is_playlist] => 
+                    [preview] => stdClass Object
+                        (
+                            [small] => https://static-cdn.jtvnw.net/previews-ttv/live_user_th3applejack-80x45.jpg
+                            [medium] => https://static-cdn.jtvnw.net/previews-ttv/live_user_th3applejack-320x180.jpg
+                            [large] => https://static-cdn.jtvnw.net/previews-ttv/live_user_th3applejack-640x360.jpg
+                            [template] => https://static-cdn.jtvnw.net/previews-ttv/live_user_th3applejack-{width}x{height}.jpg
+                        )
+
+                    [_links] => stdClass Object
+                        (
+                            [self] => https://api.twitch.tv/kraken/streams/th3applejack
+                        )
+
+                    [channel] => stdClass Object
+                        (
+                            [mature] => 
+                            [status] => League of Legends| SoloQ | Goal life :D!
+                            [broadcaster_language] => en
+                            [display_name] => Th3AppleJack
+                            [game] => League of Legends
+                            [language] => en
+                            [_id] => 41070336
+                            [name] => th3applejack
+                            [created_at] => 2013-03-07T12:45:39Z
+                            [updated_at] => 2016-03-04T11:30:15Z
+                            [delay] => 
+                            [logo] => https://static-cdn.jtvnw.net/jtv_user_pictures/th3applejack-profile_image-df8111a5a260b08b-300x300.png
+                            [banner] => 
+                            [video_banner] => https://static-cdn.jtvnw.net/jtv_user_pictures/th3applejack-channel_offline_image-24c84389f59db03b-1920x1080.png
+                            [background] => 
+                            [profile_banner] => https://static-cdn.jtvnw.net/jtv_user_pictures/th3applejack-profile_banner-bcbfd0896557f958-480.jpeg
+                            [profile_banner_background_color] => 
+                            [partner] => 
+                            [url] => http://www.twitch.tv/th3applejack
+                            [views] => 19192
+                            [followers] => 2175
+                            [_links] => stdClass Object
+                                (
+                                    [self] => https://api.twitch.tv/kraken/channels/th3applejack
+                                    [follows] => https://api.twitch.tv/kraken/channels/th3applejack/follows
+                                    [commercial] => https://api.twitch.tv/kraken/channels/th3applejack/commercial
+                                    [stream_key] => https://api.twitch.tv/kraken/channels/th3applejack/stream_key
+                                    [chat] => https://api.twitch.tv/kraken/chat/th3applejack
+                                    [features] => https://api.twitch.tv/kraken/channels/th3applejack/features
+                                    [subscriptions] => https://api.twitch.tv/kraken/channels/th3applejack/subscriptions
+                                    [editors] => https://api.twitch.tv/kraken/channels/th3applejack/editors
+                                    [teams] => https://api.twitch.tv/kraken/channels/th3applejack/teams
+                                    [videos] => https://api.twitch.tv/kraken/channels/th3applejack/videos
+                                )
+
+                        )
+
+                )
+
+            [16] => stdClass Object
+                (
+                    [_id] => 20031456688
+                    [game] => League of Legends
+                    [viewers] => 0
+                    [video_height] => 720
+                    [average_fps] => 30
+                    [delay] => 0
+                    [created_at] => 2016-03-06T18:08:30Z
+                    [is_playlist] => 
+                    [preview] => stdClass Object
+                        (
+                            [small] => https://static-cdn.jtvnw.net/previews-ttv/live_user_aclgamestv-80x45.jpg
+                            [medium] => https://static-cdn.jtvnw.net/previews-ttv/live_user_aclgamestv-320x180.jpg
+                            [large] => https://static-cdn.jtvnw.net/previews-ttv/live_user_aclgamestv-640x360.jpg
+                            [template] => https://static-cdn.jtvnw.net/previews-ttv/live_user_aclgamestv-{width}x{height}.jpg
+                        )
+
+                    [_links] => stdClass Object
+                        (
+                            [self] => https://api.twitch.tv/kraken/streams/aclgamestv
+                        )
+
+                    [channel] => stdClass Object
+                        (
+                            [mature] => 
+                            [status] => MSI ONLINE GAMING TOURNAMENT - League of Legends
+                            [broadcaster_language] => other
+                            [display_name] => ACLGAMESTV
+                            [game] => League of Legends
+                            [language] => en
+                            [_id] => 29182262
+                            [name] => aclgamestv
+                            [created_at] => 2012-03-22T09:01:46Z
+                            [updated_at] => 2016-03-06T18:00:15Z
+                            [delay] => 
+                            [logo] => https://static-cdn.jtvnw.net/jtv_user_pictures/aclgamestv-profile_image-3a8917488eaf3ec4-300x300.jpeg
+                            [banner] => 
+                            [video_banner] => https://static-cdn.jtvnw.net/jtv_user_pictures/aclgamestv-channel_offline_image-b73e6b1cf30ca79f-1920x1080.jpeg
+                            [background] => 
+                            [profile_banner] => https://static-cdn.jtvnw.net/jtv_user_pictures/aclgamestv-profile_banner-e651912a7acb9e77-480.jpeg
+                            [profile_banner_background_color] => 
+                            [partner] => 1
+                            [url] => http://www.twitch.tv/aclgamestv
+                            [views] => 519225
+                            [followers] => 760
+                            [_links] => stdClass Object
+                                (
+                                    [self] => https://api.twitch.tv/kraken/channels/aclgamestv
+                                    [follows] => https://api.twitch.tv/kraken/channels/aclgamestv/follows
+                                    [commercial] => https://api.twitch.tv/kraken/channels/aclgamestv/commercial
+                                    [stream_key] => https://api.twitch.tv/kraken/channels/aclgamestv/stream_key
+                                    [chat] => https://api.twitch.tv/kraken/chat/aclgamestv
+                                    [features] => https://api.twitch.tv/kraken/channels/aclgamestv/features
+                                    [subscriptions] => https://api.twitch.tv/kraken/channels/aclgamestv/subscriptions
+                                    [editors] => https://api.twitch.tv/kraken/channels/aclgamestv/editors
+                                    [teams] => https://api.twitch.tv/kraken/channels/aclgamestv/teams
+                                    [videos] => https://api.twitch.tv/kraken/channels/aclgamestv/videos
+                                )
+
+                        )
+
+                )
+
+        )
+
+)

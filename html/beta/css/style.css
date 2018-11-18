@@ -1,0 +1,114 @@
+@font-face {
+	font-family: "dos437";
+	src: url("../fonts/dos437.ttf");
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	display: inline-block;
+	white-space: nowrap;
+}
+
+a, a:link, a:visited {
+	text-decoration: none;
+	color: #8e79b2;
+}
+
+canvas {
+	image-rendering: optimizeSpeed;             /* Older versions of FF				*/
+	image-rendering: -moz-crisp-edges;          /* FF 6.0+							*/
+	image-rendering: -webkit-optimize-contrast; /* Safari							*/
+	image-rendering: -o-crisp-edges;            /* OS X & Windows Opera (12.02+)	*/
+	image-rendering: pixelated;                 /* Awesome future-browsers			*/
+	-ms-interpolation-mode: nearest-neighbor;   /* IE								*/
+	background-color: #aaaaaa;
+}
+
+#header {
+	width: 100%;
+	height: 75px;
+	float: left;
+	line-height: 75px;
+	vertical-align: middle;
+}
+
+#twitchStream {
+	float: left;
+}
+
+#twitchChat {
+	float: left;
+	width: 400px;
+	height: 360px;
+}
+
+#twitchGame {
+	margin-left: auto;
+	margin-right: auto;
+	width: 400px;
+	height: 360px;
+}
+
+#stream_name {
+	float: left;
+	height: 75px;
+	font-size: 3.0em;
+	font-weight: bold;
+	line-height: 75px;
+	vertical-align: middle;
+}
+
+#ttl {
+	width: 200px;
+	min-width: 200px;
+	margin-left: 10px;
+	margin-right: 10px;
+	float: left;
+	font-size: 2.0em;
+}
+
+#users_count {
+	margin-left: 10px;
+	margin-right: 10px;
+	float: left;;
+	font-size: 2.0em;
+}
+
+#vote_skip {
+	float: left;
+}
+
+#vote_skip_count {
+	margin-left: 5px;
+	margin-right: 5px;
+	float: left;
+}
+
+#vote_time {
+	/* float: left; */
+}
+
+#vote_time_count {
+	margin-left: 5px;
+	margin-right: 5px;
+	float: left;
+}
+
+#twitch_follow {
+	width: 80px;
+	height: 40px;
+	line-height: 40px;
+	background-color: #6441a5;
+	color: #ffffff;
+	font-weight: bold;
+	cursor: pointer;
+	float: left;
+	vertical-align: middle;
+	text-align: center;
+	margin-top: 17.5px;
+	margin-bottom: 17.5px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
