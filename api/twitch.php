@@ -17,8 +17,8 @@ use \jofner\SDK\TwitchTV\TwitchSDK;
 use \jofner\SDK\TwitchTV\TwitchException;
 
 $twitch_config = array(
-					"client_id" => "d8lqzbfutdq3y4r2mah3m9jioa8xklx",
-					"client_secret" => "hvsj3220i6gxwutmsn4vfoymfkks5wf",
+					"client_id" => "",
+					"client_secret" => "",
 					"redirect_uri" => "http://twitchexplorer.lordkat.com/index.php");
 
 $twitch = new TwitchSDK($twitch_config);
